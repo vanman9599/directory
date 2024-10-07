@@ -1,0 +1,2 @@
+# directory
+AI Local Directory
